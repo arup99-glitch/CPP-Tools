@@ -1,3 +1,5 @@
 # CPP-Tools
 
- 1. vector<vector<int>>matrix(n,vector<int>(m));
+
+ #define ll long long
+ vector<vector<int>>matrix(n,vector<int>(m));
